@@ -140,8 +140,16 @@ StringTable {
    Target_fr_fr "États-Unis"
    Target_it_it "Stati Uniti"
    Target_de_de "USA"
-   Target_cs_cz "Target De De"
-   Modified 1657492929
+   Target_es_es "EE.UU."
+   Target_cs_cz "USA"
+   Target_pl_pl "USA"
+   Target_ru_ru "США"
+   Target_ja_jp "アメリカ"
+   Target_ko_kr "미국"
+   Target_pt_br "EUA"
+   Target_zh_cn "美国"
+   Target_uk_ua "США"
+   Modified 1657603016
    Author "claud"
    LastChanged "claud"
   }
