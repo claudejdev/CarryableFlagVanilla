@@ -38,10 +38,12 @@ GameProject {
        }
        LanguageDefinition "{62CAD78A018F08EA}" {
         Code "ja_jp"
+        LanguageGroup EastAsian
         StringTableRuntime "{F3FBC339BE4F4B09}Language/CFV_localization.ja_jp.conf"
        }
        LanguageDefinition "{62CAD78A018F08AE}" {
         Code "ko_kr"
+        LanguageGroup EastAsian
         StringTableRuntime "{5345EB952D624836}Language/CFV_localization.ko_kr.conf"
        }
        LanguageDefinition "{62CAD78A018F0879}" {
@@ -62,6 +64,7 @@ GameProject {
        }
        LanguageDefinition "{62CAD78A018F0ABB}" {
         Code "zh_cn"
+        LanguageGroup EastAsian
         StringTableRuntime "{DFEAF8C0608415CE}Language/CFV_localization.zh_cn.conf"
        }
       }

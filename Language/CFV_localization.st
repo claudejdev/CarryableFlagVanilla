@@ -236,7 +236,8 @@ StringTable {
    Target_pt_br "Bandeira"
    Target_zh_cn "旗帜"
    Target_uk_ua "Прапор"
-   Modified 1657492654
+   Status TRANSLATION_DONE
+   Modified 1657582952
    Author "claud"
    LastChanged "claud"
   }

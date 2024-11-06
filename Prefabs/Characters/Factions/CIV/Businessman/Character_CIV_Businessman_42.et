@@ -4,6 +4,7 @@ SCR_ChimeraCharacter : "{76EC8248377D0989}Prefabs/Characters/Factions/CIV/Busine
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_Civilian_FlagBearer"
+    Description "#AR-Role_Civilian_FlagBearer"
     m_Image "{B6755353B5308DD3}UI/Textures/EditorPreviews/Characters/CIV/Character_CIV_Businessman_2.edds"
    }
   }
