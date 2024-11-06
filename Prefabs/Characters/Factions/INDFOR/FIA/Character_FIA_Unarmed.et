@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{E562CCDB20E26155}Prefabs/Weapons/Melee/Flagpole_Held_Everon.et"
+  }
+ }
+}

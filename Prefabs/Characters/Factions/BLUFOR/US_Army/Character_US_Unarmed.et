@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{284E735C6C70DAD2}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_BaseLoadout.et" {
+ ID "520EC961A090BBD5"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{042A5977BA2581F7}Prefabs/Weapons/Melee/Flagpole_Held_USA.et"
+  }
+ }
+}

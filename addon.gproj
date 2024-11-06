@@ -1,0 +1,83 @@
+GameProject {
+ ID "CarryableFlagVanilla"
+ GUID "62CA50C50482EA30"
+ TITLE "Carryable Flags - Vanilla"
+ Dependencies {
+  "58D0FB3206B6F859" "62BF3C345D95EF63"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{62CAD78A034DB0F4}" {
+      StringTableSource "{5262E8EC4E418F6C}Language/CFV_localization.st"
+      Languages {
+       LanguageDefinition "{62CAD78A018F0EBF}" {
+        Code "cs_cz"
+        StringTableRuntime "{9696D9595CCD6467}Language/CFV_localization.cs_cz.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0FF9}" {
+        Code "de_de"
+        StringTableRuntime "{43E8C36A4F6E7547}Language/CFV_localization.de_de.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0FC5}" {
+        Code "en_us"
+        StringTableRuntime "{1D184921259D7046}Language/CFV_localization.en_us.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0F97}" {
+        Code "es_es"
+        StringTableRuntime "{D85404A8CB9F1B59}Language/CFV_localization.es_es.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0F61}" {
+        Code "fr_fr"
+        StringTableRuntime "{63FCF19F2D1CF85B}Language/CFV_localization.fr_fr.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0F2D}" {
+        Code "it_it"
+        StringTableRuntime "{E3E07EAB803E7BA2}Language/CFV_localization.it_it.conf"
+       }
+       LanguageDefinition "{62CAD78A018F08EA}" {
+        Code "ja_jp"
+        StringTableRuntime "{F3FBC339BE4F4B09}Language/CFV_localization.ja_jp.conf"
+       }
+       LanguageDefinition "{62CAD78A018F08AE}" {
+        Code "ko_kr"
+        StringTableRuntime "{5345EB952D624836}Language/CFV_localization.ko_kr.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0879}" {
+        Code "pl_pl"
+        StringTableRuntime "{0F344D6F938DD44A}Language/CFV_localization.pl_pl.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0843}" {
+        Code "pt_br"
+        StringTableRuntime "{DA43D7A3A8731EF0}Language/CFV_localization.pt_br.conf"
+       }
+       LanguageDefinition "{62CAD78A018F09FB}" {
+        Code "ru_ru"
+        StringTableRuntime "{8F02C30B350A7B86}Language/CFV_localization.ru_ru.conf"
+       }
+       LanguageDefinition "{62CAD78A018F09C6}" {
+        Code "uk_ua"
+        StringTableRuntime "{055A96FD5924C5D3}Language/CFV_localization.uk_ua.conf"
+       }
+       LanguageDefinition "{62CAD78A018F0ABB}" {
+        Code "zh_cn"
+        StringTableRuntime "{DFEAF8C0608415CE}Language/CFV_localization.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

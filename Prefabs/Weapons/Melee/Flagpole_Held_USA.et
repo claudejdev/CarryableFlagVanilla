@@ -1,0 +1,58 @@
+GenericEntity : "{809488C4984AC087}Prefabs/Weapons/Handguns/M9/Handgun_M9_base.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponSoundComponent "{5A8685198A9AEEDD}" {
+   Filenames {
+   }
+  }
+  MeshObject "{CFBAA4B701F95D69}" {
+   Object "{2287DAD135E0C1A5}Carryable Flags/flag/Flagpole_Held.xob"
+  }
+  SCR_WeaponAttachmentsStorageComponent "{51F080D5CE45A1A2}" {
+   Attributes SCR_ItemAttributeCollection "{51F080D5C64F12C5}" {
+    ItemDisplayName WeaponUIInfo "{5222CB0701437228}" {
+     Name "#AR-Weapon_Flag"
+     Description "#AR-FlagColour_USA"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{5534C5023A57E47F}" {
+     SizeSetupStrategy Manual
+    }
+   }
+  }
+  SlotManagerComponent "{62CAD7CF0FD14920}" {
+   Slots {
+    EntitySlotInfo Flag {
+     Offset 0 1.3145 0.011
+    }
+   }
+  }
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{B502E4DC8A9E835E}" {
+     AttachmentSlot InventoryStorageSlot optics {
+      Offset 0.0061 1.2777 0.0172
+      Enabled 1
+      Prefab "{971F705971EF6F4B}Prefabs/Props/Fabric/Flags/Flag_1_2_US_01.et"
+     }
+    }
+    MuzzleComponent "{50F64C45E7271D47}" {
+     Enabled 0
+    }
+   }
+   UIInfo WeaponUIInfo "{CC3BA6A2C42F09F4}" {
+    Name "Flagpole"
+    Description "Flagpole"
+    m_MagIndicator SCR_MagazineIndicatorConfiguration "{565ECA2FE3F0F3FB}" {
+     m_sImagesetIcons ""
+     m_sImagesetGlows ""
+     m_sOutline ""
+     m_bProgressBar 0
+     m_sBackground ""
+     m_sProgress ""
+     m_sProgressAlphaMask ""
+    }
+   }
+   CanBeOnSling 1
+  }
+ }
+}

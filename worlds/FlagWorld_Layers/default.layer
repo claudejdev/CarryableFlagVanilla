@@ -1,0 +1,19 @@
+SCR_ChimeraCharacter : "{2F912ED6E399FF47}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Unarmed.et" {
+ coords 130.051 1 127.694
+ angleY -89.005
+}
+SCR_ChimeraCharacter : "{679550427A1EC4FA}Prefabs/Characters/Factions/CIV/Businessman/Character_CIV_Businessman_42.et" {
+ coords 127.701 1 125.362
+}
+SCR_ChimeraCharacter : "{854C04F0EA2129CC}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Unarmed.et" {
+ coords 124.837 1 125.502
+}
+SCR_ChimeraCharacter : "{98EB9CDD85B8C92C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_Unarmed.et" {
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{D82B657A1274E26F}Prefabs/Weapons/Melee/Flagpole_Held_USSR.et"
+  }
+ }
+ coords 122.844 1.001 127.812
+ angleY 91.085
+}
