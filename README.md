@@ -1,7 +1,7 @@
 # Carryable Flags Vanilla
 
 
-[Carryable Flags - Vanilla - Arma Reforger Workshop](https://reforger.armaplatform.com/workshop/62CA50C50482EA30-CarryableFlagVanilla)
+[Carryable Flags - Vanilla - Arma Reforger Workshop](https://reforger.armaplatform.com/workshop/62CA50C50482EA30-CaryableFlags-Vanilla)
 
 A simple extension to CaryableFlags, that adds Vanilla flags.
 
